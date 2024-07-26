@@ -1,4 +1,4 @@
-## Portfolio Optimization using the Markowitz Efficient Frontier
+# Portfolio Optimization using the Markowitz Efficient Frontier
 # Introduction
 The Markowitz Efficient Frontier is a cornerstone of modern portfolio theory, enabling investors to construct portfolios that maximize expected returns for a given level of risk. This repository provides Jupyter notebooks demonstrating the calculation of the Efficient Frontier for portfolios comprising more than two assets (stocks).
 
